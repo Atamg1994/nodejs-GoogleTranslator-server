@@ -1,6 +1,6 @@
 # Node translator server for XUnity.AutoTranslator
 Это скрипт node js сервер предназначер для правельного перевода 
-с игнорированием html розметки и числовых значений а также ZM?Z формата числовых значений XUnity.AutoTranslator
+с игнорированием html разметки и числовых значений а также ZM?Z формата числовых значений XUnity.AutoTranslator
 Он предназначен для использования с настраиваемыми подключаемыми модулями перевода, назначаемыми конечной точкой, такими как AutoTranslator .
 [AutoTranslator](https://github.com/bbepis/XUnity.AutoTranslator)
 # Проднобно проблемы 
@@ -35,5 +35,4 @@
 * ну и есествено нужно закинуть сам CustomTranslateBanch.dll в папку переводчика
 * для MelonLoader game_path\UserLibs\Translators\CustomTranslateBanch.dll
 * для Bepinex game_path\BepInEx\plugins\XUnity.AutoTranslator\Translators\CustomTranslateBanch.dll
-* все )
 * мой код использует бесплатный вариант Google Api потому может быть не стабильным
